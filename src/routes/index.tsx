@@ -1,6 +1,6 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
 import { ArrowRight } from "lucide-react";
-import hero from "@/assets/hero.jpg";
+import hero from "@/assets/hero.svg";
 import { Navbar, Footer, Placeholder, IG, EMAIL } from "@/components/site";
 import { Button } from "@/components/ui/button";
 
